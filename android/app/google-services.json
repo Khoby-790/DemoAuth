@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "314486232156",
+    "firebase_url": "https://allo-86d33.firebaseio.com",
+    "project_id": "allo-86d33",
+    "storage_bucket": "allo-86d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314486232156:android:e38438fe72507d03",
+        "android_client_info": {
+          "package_name": "com.samplereactnativeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314486232156-lv1q0k7r3kg99id5eka9u7csadv7im5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcr_yePZvE_pMFIsltVns0I7PnEHri3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
